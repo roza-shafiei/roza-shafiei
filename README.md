@@ -12,11 +12,11 @@
 ## Ways to reach me
 <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   <img src="https://img.shields.io/badge/LinkedIn-0000ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-## Stats
+## Github Stats
 <p align="left">
   <a href="https://github.com/">
     <img src="https://komarev.com/ghpvc/?username=roza-shafiei&color=red" alt="profile views" />
