@@ -14,7 +14,8 @@
   <a href="https://t.me/rozashafiei1993"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0000ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/maryam-shafiei-56b177233/"><img src="https://img.shields.io/badge/LinkedIn-0000ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
 
 ## Github Stats
@@ -23,7 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=roza-shafiei&color=red" alt="profile views" />
   </a>
   <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1-blue?color=blue&logo=linkedin">
   </a>
 </p>
 
